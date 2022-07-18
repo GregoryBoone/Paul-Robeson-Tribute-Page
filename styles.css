@@ -1,0 +1,44 @@
+body{
+  display: block;
+  background-color: #377D71;
+
+}
+
+footer{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+#image{
+  max-width: 50%;
+  height: auto;
+  border-color: #377D71;
+  border-width: 5px;
+  border-style: solid;
+
+}
+
+img{
+  display: block;
+  margin: auto;
+  width: 60%;
+}
+
+#img-div{
+  text-align: center;
+}
+#main{
+  margin: auto;
+  width: 60%
+
+}
+main{
+  display: block;
+  background-color: pink;
+}
+.text-div{
+  margin-right: 10px;
+}
